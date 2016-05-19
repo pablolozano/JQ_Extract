@@ -1,2 +1,2 @@
 # JQ_Extract
-Web scraping extension for google chrome
+Trivago.com web scraping extension for google chrome
